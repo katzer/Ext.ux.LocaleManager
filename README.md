@@ -4,7 +4,7 @@ Ext.ux.LocaleManager
 Simple localization support for Extjs and SenchaTouch
 
 ## Adding the Plugin to your project
-The plugin has to be required within `app.js` before any localized view component is loaded.
+The plugin has to be required within `app.js` and the locals has to be added before any localized view component can be loaded.
 ```javascript
 // app.js
 
